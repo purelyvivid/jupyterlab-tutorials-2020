@@ -1,4 +1,4 @@
-# PrimeHub(AI平台)使用教學
+# AI Jupyter Server 使用教學
 
 
 - 2020/06/09 10:00-12:00
